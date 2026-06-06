@@ -95,8 +95,8 @@
 ```bash
 pkg update -y
 pkg install git -y
-git clone https://github.com/Mraprguild/termux-instagram-downloader.git
-cd termux-instagram-downloader
+git clone https://github.com/Mraprguild/Termux-Instagram-Downloader-.git
+cd Termux-Instagram-Downloader-
 chmod +x install.sh
 ./install.sh
 ```
@@ -106,8 +106,8 @@ chmod +x install.sh
 ```bash
 pkg update -y
 pkg install unzip -y
-unzip termux-instagram-downloader.zip
-cd termux-instagram-downloader
+unzip Termux-Instagram-Downloader-.zip
+cd -Termux-Instagram-Downloader-
 chmod +x install.sh
 ./install.sh
 ```
