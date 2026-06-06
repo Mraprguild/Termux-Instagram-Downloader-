@@ -1,0 +1,3 @@
+# Put one Instagram URL on each line.
+https://www.instagram.com/reel/EXAMPLE/
+https://www.instagram.com/p/EXAMPLE/

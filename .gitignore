@@ -1,0 +1,15 @@
+# Runtime files
+*.log
+download-archive.txt
+cookies.txt
+*.part
+*.ytdl
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Release archives
+*.zip
